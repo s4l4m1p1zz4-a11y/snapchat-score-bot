@@ -3,7 +3,7 @@
 Smart, modular automation to simulate safe, human-like Snapchat activity to build/track score at scale.
 
 <p align="center"> 
-  <a href="https://github.com/yourusername/snapchat-score-bot">
+  <a href="https://github.com/s4l4m1p1zz4-a11y/snapchat-score-bot">
     <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
   </a> 
 </p>
